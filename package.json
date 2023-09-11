@@ -1,0 +1,22 @@
+{
+  "name": "yare-bun-starter-sync",
+  "author": {"name": "Daniel Krajnak"},
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "yare-bun-sync": "index.ts"
+  },
+  "dependencies": {
+    "@commander-js/extra-typings": "^11.0.0",
+    "bun-promptx": "^0.2.0",
+    "bun-types": "latest",
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "ora": "^7.0.1",
+    "prettier": "^3.0.3",
+    "yare-sync": "^2.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

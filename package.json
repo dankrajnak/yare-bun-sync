@@ -2,7 +2,7 @@
   "name": "yare-bun-sync",
   "description": "Compile, bundle, and sync your code to yare using bun!",
   "author": {"name": "Daniel Krajnak"},
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "bin": {
     "yare-bun-sync": "index.ts"

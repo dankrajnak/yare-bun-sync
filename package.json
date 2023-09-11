@@ -1,5 +1,6 @@
 {
-  "name": "yare-bun-starter-sync",
+  "name": "yare-bun-sync",
+  "description": "Compile, bundle, and sync your code to yare using bun!",
   "author": {"name": "Daniel Krajnak"},
   "version": "1.0.0",
   "license": "MIT",
